@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a4891a7-52d9-4860-920f-52c6ea380ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/MapNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F1EbfJOQOezjQggzyQQLtvLONZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
